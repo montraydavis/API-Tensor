@@ -1,0 +1,14 @@
+{
+  "name": "api-tensor-backend_sample",
+  "version": "1.0.0",
+  "description": "Sample API for testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Montray Davis",
+  "license": "MIT",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
