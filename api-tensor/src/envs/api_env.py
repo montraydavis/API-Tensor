@@ -16,8 +16,6 @@ from endpoint import APIEndpoint
 
 from keras.models import Sequential
 from keras.layers import Dense, Dropout
-from keras.optimizers import Adam
-
 
 from tensorflow import feature_column
 
