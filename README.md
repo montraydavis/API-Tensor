@@ -11,12 +11,23 @@ In this scenario, we will attempt to authenticate with our API with only knowing
 
 In this case, we know that data comes from the 'users' and 'user_types' table(s).
 
+Users
+
+| FIRST_NAME  | LAST_NAME   | USER_NAME   | AUTH_PASSWORD |
+| ----------- | ----------- | ----------- | -----------   |
+| ...         | ...         | ...         | ...           |
+
+User_Types
+| USER_TYPE  | USER_TYPE_ID |
+| ----------- | ----------- |
+| ...         | ...         |
+
 Our endpoint requires two parameters (which do not match our table column names):
 
 1. Username
 2. Password
 
-View the notebook for the continued example.
+[View the notebook for the continued example.](https://github.com/montraydavis/API-Tensor/blob/main/api-tensor/src/notebook.ipynb)
 
 v.0.0.1:
 
