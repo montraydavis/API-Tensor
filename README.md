@@ -1,7 +1,7 @@
 # API-Tensor
 Using Tensorflow2 Machine Learning to automate API execution. API Tensors allow you to fully automate the API execution process.
 
-This project aims at allowing developers to automate the API Automation process. Instead of writing, wiring, and maintaining API inputs, use Tensorflow and OpenAI Gym to 'learn' which data correlates to an API endpoints' input(s) -- powered by Artificial Intelligence.
+nstead of writing, wiring, and maintaining API inputs, use Tensorflow and OpenAI Gym to 'learn' which data correlates to an API endpoints' input(s) -- powered by Artificial Intelligence.
 
 In short, using OpenAI Gym, API-Tensor will repeatedly execute an endpoint using random values from a supplied list of possible values.
 
